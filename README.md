@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **reemk3103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1u15IS1CTG0rHyM_NCCe5UE5t8Y2tSGyg/view?usp=sharing](https://drive.google.com/file/d/1u15IS1CTG0rHyM_NCCe5UE5t8Y2tSGyg/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1u15IS1CTG0rHyM_NCCe5UE5t8Y2tSGyg/view?usp=sharing](https://drive.google.com/file/d/1u15IS1CTG0rHyM_NCCe5UE5t8Y2tSGyg/view?usp=sharing1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
