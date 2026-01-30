@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm REEM</h1>
 <h3 align="center">Final Year Engineering Student | AI & ML Enthusiast</h3>
+---
+
+## 🎨 Experience My Portfolio in 3D
+
+<div align="center">
+  
+[![3D Interactive Profile](https://img.shields.io/badge/🚀_Launch_3D_Profile-00d4ff?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=1e293b)](https://reemkaleem.github.io/3d_profile)
+
+*Interactive 3D visualization with WebGL • Explore my projects in an immersive environment*
+
+</div>
+
+---
 
 - About me **👋 Hi, I’m Reem — an Engineering student passionate about AI, ML, and Computer Vision. I love building intelligent systems, exploring real-time analytics, and solving problems through hackathons.**
 
