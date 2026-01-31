@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![3D Interactive Profile](https://img.shields.io/badge/🚀_Launch_3D_Profile-00d4ff?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=1e293b)](https://reemkaleem.github.io/3d_profile)
+[![3D Interactive Profile](https://img.shields.io/badge/🚀_Launch_3D_Profile-00d4ff?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=1e293b)](https://reemkaleem.github.io/reems_portfolio/)
 
 *Interactive 3D visualization with WebGL • Explore my projects in an immersive environment*
 
